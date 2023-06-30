@@ -8,7 +8,7 @@ package main
 import "fmt"
 
 func main() {
-	var name = "Reptile"
+	var name = "Hariri"
 
 	if name == "Hariri" {
 		// jika name hasil boolean di if true maka akan di eksekusi

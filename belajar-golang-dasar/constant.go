@@ -18,7 +18,7 @@ func main() {
 }
 
 // Deklarasi multiple constant
-// Sama seperti variable, di glang juga kita bisa membuat constant secara sekaligus banyak
+// Sama seperti variable, di golang juga kita bisa membuat constant secara sekaligus banyak
 
 package main
 
